@@ -1,0 +1,15 @@
+C:\Users\ISIS\Documents\Hospedagem\bin\Debug\net7.0\Documents.exe
+C:\Users\ISIS\Documents\Hospedagem\bin\Debug\net7.0\Documents.deps.json
+C:\Users\ISIS\Documents\Hospedagem\bin\Debug\net7.0\Documents.runtimeconfig.json
+C:\Users\ISIS\Documents\Hospedagem\bin\Debug\net7.0\Documents.dll
+C:\Users\ISIS\Documents\Hospedagem\bin\Debug\net7.0\Documents.pdb
+C:\Users\ISIS\Documents\Hospedagem\obj\Debug\net7.0\Documents.csproj.AssemblyReference.cache
+C:\Users\ISIS\Documents\Hospedagem\obj\Debug\net7.0\Documents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISIS\Documents\Hospedagem\obj\Debug\net7.0\Documents.AssemblyInfoInputs.cache
+C:\Users\ISIS\Documents\Hospedagem\obj\Debug\net7.0\Documents.AssemblyInfo.cs
+C:\Users\ISIS\Documents\Hospedagem\obj\Debug\net7.0\Documents.csproj.CoreCompileInputs.cache
+C:\Users\ISIS\Documents\Hospedagem\obj\Debug\net7.0\Documents.dll
+C:\Users\ISIS\Documents\Hospedagem\obj\Debug\net7.0\refint\Documents.dll
+C:\Users\ISIS\Documents\Hospedagem\obj\Debug\net7.0\Documents.pdb
+C:\Users\ISIS\Documents\Hospedagem\obj\Debug\net7.0\Documents.genruntimeconfig.cache
+C:\Users\ISIS\Documents\Hospedagem\obj\Debug\net7.0\ref\Documents.dll
